@@ -1,0 +1,11 @@
+setup.py
+Marvel_package_rin/__init__.py
+Marvel_package_rin/activity4.py
+Marvel_package_rin/activity4_5.py
+Marvel_package_rin/api.py
+Marvel_package_rin/createDF.py
+Marvel_package_rin/func_available.py
+Marvel_package_rin.egg-info/PKG-INFO
+Marvel_package_rin.egg-info/SOURCES.txt
+Marvel_package_rin.egg-info/dependency_links.txt
+Marvel_package_rin.egg-info/top_level.txt

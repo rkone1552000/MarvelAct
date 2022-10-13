@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: Marvel-package-rin
+Version: 0.1
+Summary: Extracts the data from Marvel api in the form of dataframe.
+Author: Riyansh
+Author-email: rkone1552000@gmail.com
